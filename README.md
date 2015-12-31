@@ -3,6 +3,8 @@
 [@gyokutmo](https://twitter.com/gyokutmo)で運用する予定．
 
 [![wercker status](https://app.wercker.com/status/12941c80348b5180e1702731bdcb39a3/m "wercker status")](https://app.wercker.com/project/bykey/12941c80348b5180e1702731bdcb39a3)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 
 
 ## Requirement
