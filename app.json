@@ -1,0 +1,11 @@
+{
+  "name": "Gyokuto",
+  "repository": "https://github.com/trileg/Gyokuto",
+  "env": {
+    "GYOKUTO_API_KEY": "",
+    "GYOKUTO_API_SECRET": "",
+    "GYOKUTO_ACCESS_TOKEN": "",
+    "GYOKUTO_ACCESS_TOKEN_SECRET": "",
+    "GYOKUTO_DM_TO": ""
+  }
+}
